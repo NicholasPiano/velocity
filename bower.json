@@ -1,7 +1,7 @@
 {
   "name": "velocity",
   "version": "1.1.0",
-  "homepage": "http://velocityjs.org",
+  "homepage": "http://velocityjs.org", 
   "authors": [
     { "name" : "Julian Shapiro",
       "homepage" : "http://julian.com/"
